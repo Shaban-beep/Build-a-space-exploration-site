@@ -30,3 +30,13 @@ body {
     border-bottom: 4px solid white;
     /* line-height: 25px; */
 }
+h3 {
+    padding-bottom: 5px;
+    border-bottom: 5px solid black;
+    width: 28%;
+    text-align: center;
+    justify-content: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
